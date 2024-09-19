@@ -3,14 +3,13 @@ using namespace std;
 
 int main(){
 	//Nested loop
-//	int X;
-//	cout<<"Enter no. of X:"<<endl;
-//	cin>>X;
-//	
-//	for(int i=1;i<=X;i++){
-//		cout<<"*";
-//	}
-//	
+	int X;
+	cout<<"Enter no. of X:"<<endl;
+	cin>>X;
+	
+	for(int i=1;i<=X;i++){
+		cout<<"*";
+	}
 
 // sum of all number divisible by 3
 	int X;
